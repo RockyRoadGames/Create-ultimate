@@ -1,0 +1,328 @@
+﻿Create Ultimate crash diagnostics
+World: Create ultimate
+
+--- latest.log line 24870 ---
+[19:44:20] [pool-40-thread-1/ERROR]: Registering Runtime: jei:forge_gui is running and has taken 10.00 seconds so far
+[19:44:25] [CraftPresence/INFO]: Attempting to connect to Discord (9/10)...
+[19:44:25] [pool-40-thread-1/ERROR]: Registering Runtime: jei:forge_gui is running and has taken 15.10 seconds so far
+[19:44:30] [pool-40-thread-1/ERROR]: Registering Runtime: jei:forge_gui is running and has taken 20.10 seconds so far
+[19:44:31] [Render thread/INFO]: Added 60449 ingredients
+[19:44:31] [Render thread/INFO]: Building ingredient filter took 20.33 s
+[19:44:31] [Render thread/INFO]: Registering Runtime: jei:forge_gui took 21.09 seconds
+[19:44:31] [Render thread/INFO]: Registering Runtime took 21.09 s
+[19:44:31] [Render thread/INFO]: Building runtime took 21.12 s
+[19:44:31] [Render thread/INFO]: Sending Runtime...
+--- latest.log line 24880 ---
+[19:44:31] [Render thread/INFO]: Ingredients are being added at runtime: 2 net.minecraftforge.fluids.FluidStack
+[19:44:31] [Render thread/INFO]: Ingredients are being added at runtime: 60 net.minecraft.world.item.ItemStack
+[19:44:31] [Render thread/INFO]: Ingredients are being removed at runtime: 9 net.minecraft.world.item.ItemStack
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_cube_gen ae2:debug_cube_gen
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_chunk_loader ae2:debug_chunk_loader
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_energy_gen ae2:debug_energy_gen
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_item_gen ae2:debug_item_gen
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_phantom_node ae2:debug_phantom_node
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 EraserItem[debug_eraser] ae2:debug_eraser
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 MeteoritePlacerItem[debug_meteorite_placer] ae2:debug_meteorite_placer
+--- latest.log line 24881 ---
+[19:44:31] [Render thread/INFO]: Ingredients are being added at runtime: 60 net.minecraft.world.item.ItemStack
+[19:44:31] [Render thread/INFO]: Ingredients are being removed at runtime: 9 net.minecraft.world.item.ItemStack
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_cube_gen ae2:debug_cube_gen
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_chunk_loader ae2:debug_chunk_loader
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_energy_gen ae2:debug_energy_gen
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_item_gen ae2:debug_item_gen
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_phantom_node ae2:debug_phantom_node
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 EraserItem[debug_eraser] ae2:debug_eraser
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 MeteoritePlacerItem[debug_meteorite_placer] ae2:debug_meteorite_placer
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 ReplicatorCardItem[debug_replicator_card] ae2:debug_replicator_card
+--- latest.log line 24882 ---
+[19:44:31] [Render thread/INFO]: Ingredients are being removed at runtime: 9 net.minecraft.world.item.ItemStack
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_cube_gen ae2:debug_cube_gen
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_chunk_loader ae2:debug_chunk_loader
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_energy_gen ae2:debug_energy_gen
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_item_gen ae2:debug_item_gen
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_phantom_node ae2:debug_phantom_node
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 EraserItem[debug_eraser] ae2:debug_eraser
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 MeteoritePlacerItem[debug_meteorite_placer] ae2:debug_meteorite_placer
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 ReplicatorCardItem[debug_replicator_card] ae2:debug_replicator_card
+[19:44:31] [Render thread/INFO]: Sending Runtime: ae2:core took 227.7 milliseconds
+--- latest.log line 24883 ---
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_cube_gen ae2:debug_cube_gen
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_chunk_loader ae2:debug_chunk_loader
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_energy_gen ae2:debug_energy_gen
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_item_gen ae2:debug_item_gen
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_phantom_node ae2:debug_phantom_node
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 EraserItem[debug_eraser] ae2:debug_eraser
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 MeteoritePlacerItem[debug_meteorite_placer] ae2:debug_meteorite_placer
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 ReplicatorCardItem[debug_replicator_card] ae2:debug_replicator_card
+[19:44:31] [Render thread/INFO]: Sending Runtime: ae2:core took 227.7 milliseconds
+[19:44:31] [Render thread/INFO]: Sending Runtime took 247.7 ms
+--- latest.log line 24884 ---
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_chunk_loader ae2:debug_chunk_loader
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_energy_gen ae2:debug_energy_gen
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_item_gen ae2:debug_item_gen
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_phantom_node ae2:debug_phantom_node
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 EraserItem[debug_eraser] ae2:debug_eraser
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 MeteoritePlacerItem[debug_meteorite_placer] ae2:debug_meteorite_placer
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 ReplicatorCardItem[debug_replicator_card] ae2:debug_replicator_card
+[19:44:31] [Render thread/INFO]: Sending Runtime: ae2:core took 227.7 milliseconds
+[19:44:31] [Render thread/INFO]: Sending Runtime took 247.7 ms
+[19:44:31] [Render thread/INFO]: Starting JEI took 38.58 s
+--- latest.log line 24885 ---
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_energy_gen ae2:debug_energy_gen
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_item_gen ae2:debug_item_gen
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_phantom_node ae2:debug_phantom_node
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 EraserItem[debug_eraser] ae2:debug_eraser
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 MeteoritePlacerItem[debug_meteorite_placer] ae2:debug_meteorite_placer
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 ReplicatorCardItem[debug_replicator_card] ae2:debug_replicator_card
+[19:44:31] [Render thread/INFO]: Sending Runtime: ae2:core took 227.7 milliseconds
+[19:44:31] [Render thread/INFO]: Sending Runtime took 247.7 ms
+[19:44:31] [Render thread/INFO]: Starting JEI took 38.58 s
+[19:44:40] [Render thread/INFO]: Building books ...
+--- latest.log line 24886 ---
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_item_gen ae2:debug_item_gen
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_phantom_node ae2:debug_phantom_node
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 EraserItem[debug_eraser] ae2:debug_eraser
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 MeteoritePlacerItem[debug_meteorite_placer] ae2:debug_meteorite_placer
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 ReplicatorCardItem[debug_replicator_card] ae2:debug_replicator_card
+[19:44:31] [Render thread/INFO]: Sending Runtime: ae2:core took 227.7 milliseconds
+[19:44:31] [Render thread/INFO]: Sending Runtime took 247.7 ms
+[19:44:31] [Render thread/INFO]: Starting JEI took 38.58 s
+[19:44:40] [Render thread/INFO]: Building books ...
+[19:44:40] [Render thread/INFO]: Books built.
+--- latest.log line 24887 ---
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_phantom_node ae2:debug_phantom_node
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 EraserItem[debug_eraser] ae2:debug_eraser
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 MeteoritePlacerItem[debug_meteorite_placer] ae2:debug_meteorite_placer
+[19:44:31] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 ReplicatorCardItem[debug_replicator_card] ae2:debug_replicator_card
+[19:44:31] [Render thread/INFO]: Sending Runtime: ae2:core took 227.7 milliseconds
+[19:44:31] [Render thread/INFO]: Sending Runtime took 247.7 ms
+[19:44:31] [Render thread/INFO]: Starting JEI took 38.58 s
+[19:44:40] [Render thread/INFO]: Building books ...
+[19:44:40] [Render thread/INFO]: Books built.
+[19:44:40] [Render thread/INFO]: Pre-rendering markdown ...
+--- latest.log line 24970 ---
+[19:44:43] [Render thread/WARN]: Thermalpedia missing the crafting recipe: thermal:phytosoil
+[19:44:43] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 248.8 ?s
+[19:44:43] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 319.1 ?s
+[19:44:43] [Render thread/WARN]: Invalid icon item stack: Unknown item ID: pneumaticcraft:pneumatic_generator
+[19:44:43] [Render thread/WARN]: Invalid icon item stack: Unknown item ID: pneumaticcraft:electric_compressor
+[19:44:43] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 182.8 ?s
+[19:44:43] [Render thread/WARN]: Recipe pneumaticcraft:drone_interface (of type minecraft:crafting) not found
+[19:44:43] [Render thread/WARN]: Recipe pneumaticcraft:radiation_shielding_upgrade (of type minecraft:crafting) not found
+[19:44:43] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 35.10 ?s
+[19:44:43] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 27.60 ?s
+--- latest.log line 24971 ---
+[19:44:43] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 248.8 ?s
+[19:44:43] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 319.1 ?s
+[19:44:43] [Render thread/WARN]: Invalid icon item stack: Unknown item ID: pneumaticcraft:pneumatic_generator
+[19:44:43] [Render thread/WARN]: Invalid icon item stack: Unknown item ID: pneumaticcraft:electric_compressor
+[19:44:43] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 182.8 ?s
+[19:44:43] [Render thread/WARN]: Recipe pneumaticcraft:drone_interface (of type minecraft:crafting) not found
+[19:44:43] [Render thread/WARN]: Recipe pneumaticcraft:radiation_shielding_upgrade (of type minecraft:crafting) not found
+[19:44:43] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 35.10 ?s
+[19:44:43] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 27.60 ?s
+[19:44:43] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 28.40 ?s
+--- latest.log line 24973 ---
+[19:44:43] [Render thread/WARN]: Invalid icon item stack: Unknown item ID: pneumaticcraft:pneumatic_generator
+[19:44:43] [Render thread/WARN]: Invalid icon item stack: Unknown item ID: pneumaticcraft:electric_compressor
+[19:44:43] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 182.8 ?s
+[19:44:43] [Render thread/WARN]: Recipe pneumaticcraft:drone_interface (of type minecraft:crafting) not found
+[19:44:43] [Render thread/WARN]: Recipe pneumaticcraft:radiation_shielding_upgrade (of type minecraft:crafting) not found
+[19:44:43] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 35.10 ?s
+[19:44:43] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 27.60 ?s
+[19:44:43] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 28.40 ?s
+[19:44:43] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 45.10 ?s
+[19:44:43] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 39.30 ?s
+--- latest.log line 24974 ---
+[19:44:43] [Render thread/WARN]: Invalid icon item stack: Unknown item ID: pneumaticcraft:electric_compressor
+[19:44:43] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 182.8 ?s
+[19:44:43] [Render thread/WARN]: Recipe pneumaticcraft:drone_interface (of type minecraft:crafting) not found
+[19:44:43] [Render thread/WARN]: Recipe pneumaticcraft:radiation_shielding_upgrade (of type minecraft:crafting) not found
+[19:44:43] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 35.10 ?s
+[19:44:43] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 27.60 ?s
+[19:44:43] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 28.40 ?s
+[19:44:43] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 45.10 ?s
+[19:44:43] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 39.30 ?s
+[19:44:43] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 24.70 ?s
+--- latest.log line 25036 ---
+[19:44:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2284ms or 45 ticks behind
+[19:44:45] [Render thread/WARN]: Time from main menu to in-game was 136.2186 seconds
+[19:44:45] [Render thread/WARN]: Total time to load game and open world was 311.00458 seconds
+[19:44:56] [Render thread/INFO]: Exception when loading mna:manaweave_cache texture, using material colour.
+[19:44:56] [Render thread/INFO]: No texture minecraft:textures/missingno.png
+[19:45:25] [CraftPresence/INFO]: Attempting to connect to Discord (10/10)...
+[19:46:06] [Render thread/ERROR]: Exception caught during firing event: class net.minecraft.client.player.LocalPlayer cannot be cast to class net.minecraft.world.entity.decoration.ArmorStand (net.minecraft.client.player.LocalPlayer and net.minecraft.world.entity.decoration.ArmorStand are in module minecraft@1.20.1 of loader 'TRANSFORMER' @643f8ebe)
+	Index: 4
+	Listeners:
+		0: HIGH
+--- latest.log line 25039 ---
+[19:44:56] [Render thread/INFO]: Exception when loading mna:manaweave_cache texture, using material colour.
+[19:44:56] [Render thread/INFO]: No texture minecraft:textures/missingno.png
+[19:45:25] [CraftPresence/INFO]: Attempting to connect to Discord (10/10)...
+[19:46:06] [Render thread/ERROR]: Exception caught during firing event: class net.minecraft.client.player.LocalPlayer cannot be cast to class net.minecraft.world.entity.decoration.ArmorStand (net.minecraft.client.player.LocalPlayer and net.minecraft.world.entity.decoration.ArmorStand are in module minecraft@1.20.1 of loader 'TRANSFORMER' @643f8ebe)
+	Index: 4
+	Listeners:
+		0: HIGH
+		1: ASM: class cofh.core.client.event.CoreClientEvents handleTrueInvisibility(Lnet/minecraftforge/client/event/RenderLivingEvent;)V
+		2: NORMAL
+		3: ASM: class io.redspace.ironsspellbooks.player.ClientPlayerEvents beforeLivingRender(Lnet/minecraftforge/client/event/RenderLivingEvent$Pre;)V
+--- latest.log line 25060 ---
+		15: ASM: class twilightforest.client.TFClientEvents unrenderHeadWithTrophies(Lnet/minecraftforge/client/event/RenderLivingEvent;)V
+		16: LOWEST
+		17: ASM: class com.mna.entities.renderers.living.LivingRenderEvents onLivingRenderPre(Lnet/minecraftforge/client/event/RenderLivingEvent$Pre;)V
+java.lang.ClassCastException: class net.minecraft.client.player.LocalPlayer cannot be cast to class net.minecraft.world.entity.decoration.ArmorStand (net.minecraft.client.player.LocalPlayer and net.minecraft.world.entity.decoration.ArmorStand are in module minecraft@1.20.1 of loader 'TRANSFORMER' @643f8ebe)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.model.ArmorStandArmorModel.m_6973_(ArmorStandArmorModel.java:14)
+	at TRANSFORMER/epicfight@20.9.7/yesman.epicfight.client.renderer.patched.layer.WearableItemLayer.renderLayer(WearableItemLayer.java:160)
+	at TRANSFORMER/epicfight@20.9.7/yesman.epicfight.client.renderer.patched.layer.WearableItemLayer.renderLayer(WearableItemLayer.java:49)
+	at TRANSFORMER/epicfight@20.9.7/yesman.epicfight.client.renderer.patched.layer.ModelRenderLayer.renderLayer(ModelRenderLayer.java:27)
+	at TRANSFORMER/epicfight@20.9.7/yesman.epicfight.client.renderer.patched.entity.PatchedLivingEntityRenderer.renderLayer(PatchedLivingEntityRenderer.java:236)
+	at TRANSFORMER/epicfight@20.9.7/yesman.epicfight.client.renderer.patched.entity.PatchedLivingEntityRenderer.render(PatchedLivingEntityRenderer.java:146)
+--- latest.log line 25236 ---
+[19:46:11] [Render thread/INFO]: Xaero hud session finalized.
+[19:46:11] [Render thread/INFO]: Removed all overlays.
+[19:46:11] [Render thread/INFO]: All events have been closed.
+[19:46:13] [Render thread/ERROR]: Couldn't read layer file minecraft:animated_layers/player/travelersbackpack.json for entity.minecraft.player: com.tiviacz.travelersbackpack.client.renderer.TravelersBackpackLayer
+[19:46:13] [Render thread/ERROR]: Couldn't read layer file minecraft:animated_layers/player/waveycapes.json for entity.minecraft.player: dev.tr7zw.waveycapes.renderlayers.CustomCapeRenderLayer
+[19:46:13] [Finalizer/WARN]: One or more BufferBuilders have been leaked, ModernFix will attempt to correct this.
+[19:46:15] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingOut
+[19:46:15] [Render thread/INFO]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[19:46:15] [Render thread/INFO]: Stopping JEI
+[19:46:15] [Render thread/INFO]: Sending Runtime Unavailable...
+--- latest.log line 25237 ---
+[19:46:11] [Render thread/INFO]: Removed all overlays.
+[19:46:11] [Render thread/INFO]: All events have been closed.
+[19:46:13] [Render thread/ERROR]: Couldn't read layer file minecraft:animated_layers/player/travelersbackpack.json for entity.minecraft.player: com.tiviacz.travelersbackpack.client.renderer.TravelersBackpackLayer
+[19:46:13] [Render thread/ERROR]: Couldn't read layer file minecraft:animated_layers/player/waveycapes.json for entity.minecraft.player: dev.tr7zw.waveycapes.renderlayers.CustomCapeRenderLayer
+[19:46:13] [Finalizer/WARN]: One or more BufferBuilders have been leaked, ModernFix will attempt to correct this.
+[19:46:15] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingOut
+[19:46:15] [Render thread/INFO]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[19:46:15] [Render thread/INFO]: Stopping JEI
+[19:46:15] [Render thread/INFO]: Sending Runtime Unavailable...
+[19:46:15] [Render thread/INFO]: Stopping JEI GUI
+--- latest.log line 25246 ---
+[19:46:15] [Render thread/INFO]: Stopping JEI GUI
+[19:46:15] [Render thread/INFO]: Sending Runtime Unavailable took 2.656 ms
+[19:46:15] [Render thread/INFO]: Stopping worker threads
+[19:46:15] [Render thread/ERROR]: Reported exception thrown!
+net.minecraft.ReportedException: Rendering entity in world
+	at net.minecraft.client.renderer.GameRenderer.m_109093_(GameRenderer.java:978) ~[client-1.20.1-20230612.114412-srg.jar%231434!/:?]
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1146) ~[client-1.20.1-20230612.114412-srg.jar%231434!/:?]
+	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:718) ~[client-1.20.1-20230612.114412-srg.jar%231434!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:218) ~[1.20.1-47.4.10.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+--- latest.log line 25247 ---
+[19:46:15] [Render thread/INFO]: Sending Runtime Unavailable took 2.656 ms
+[19:46:15] [Render thread/INFO]: Stopping worker threads
+[19:46:15] [Render thread/ERROR]: Reported exception thrown!
+net.minecraft.ReportedException: Rendering entity in world
+	at net.minecraft.client.renderer.GameRenderer.m_109093_(GameRenderer.java:978) ~[client-1.20.1-20230612.114412-srg.jar%231434!/:?]
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1146) ~[client-1.20.1-20230612.114412-srg.jar%231434!/:?]
+	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:718) ~[client-1.20.1-20230612.114412-srg.jar%231434!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:218) ~[1.20.1-47.4.10.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+--- latest.log line 25273 ---
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at com.modrinth.theseus.MinecraftLaunch.relaunch(MinecraftLaunch.java:63) ~[theseus.jar%2386!/:?]
+	at com.modrinth.theseus.MinecraftLaunch.main(MinecraftLaunch.java:28) ~[theseus.jar%2386!/:?]
+Caused by: java.lang.ClassCastException: class net.minecraft.client.player.LocalPlayer cannot be cast to class net.minecraft.world.entity.decoration.ArmorStand (net.minecraft.client.player.LocalPlayer and net.minecraft.world.entity.decoration.ArmorStand are in module minecraft@1.20.1 of loader 'TRANSFORMER' @643f8ebe)
+	at net.minecraft.client.model.ArmorStandArmorModel.m_6973_(ArmorStandArmorModel.java:14) ~[client-1.20.1-20230612.114412-srg.jar%231434!/:?]
+	at yesman.epicfight.client.renderer.patched.layer.WearableItemLayer.renderLayer(WearableItemLayer.java:160) ~[epicfight-forge-20.9.7-1.20.1.jar%231160!/:20.9.7]
+	at yesman.epicfight.client.renderer.patched.layer.WearableItemLayer.renderLayer(WearableItemLayer.java:49) ~[epicfight-forge-20.9.7-1.20.1.jar%231160!/:20.9.7]
+	at yesman.epicfight.client.renderer.patched.layer.ModelRenderLayer.renderLayer(ModelRenderLayer.java:27) ~[epicfight-forge-20.9.7-1.20.1.jar%231160!/:20.9.7]
+	at yesman.epicfight.client.renderer.patched.entity.PatchedLivingEntityRenderer.renderLayer(PatchedLivingEntityRenderer.java:236) ~[epicfight-forge-20.9.7-1.20.1.jar%231160!/:20.9.7]
+	at yesman.epicfight.client.renderer.patched.entity.PatchedLivingEntityRenderer.render(PatchedLivingEntityRenderer.java:146) ~[epicfight-forge-20.9.7-1.20.1.jar%231160!/:20.9.7]
+--- latest.log line 25306 ---
+	at net.minecraftforge.client.ForgeHooksClient.drawScreen(ForgeHooksClient.java:421) ~[forge-1.20.1-47.4.10-universal.jar%231439!/:?]
+	at net.minecraft.client.renderer.GameRenderer.m_109093_(GameRenderer.java:965) ~[client-1.20.1-20230612.114412-srg.jar%231434!/:?]
+	... 24 more
+[19:46:15] [Render thread/FATAL]: Preparing crash report with UUID 94e2941f-c59c-480e-bfaa-08c98b3e8084
+[19:46:15] [Render thread/INFO]: [net.minecraft.server.Bootstrap:m_135875_:151]: ---- Minecraft Crash Report ----
+// Embeddium instance tainted by mods: [fusion, sodiumoptionsapi, valkyrienskies, optileaves, supplementaries, oculus, sodiumdynamiclights, copycats, culllessleaves, bocchium]
+// Please do not reach out for Embeddium support without removing these mods first.
+// -------
+// This doesn't make any sense!
+
+--- latest.log line 25314 ---
+// This doesn't make any sense!
+
+Time: 2026-10-13 19:46:15
+Description: Rendering entity in world
+
+java.lang.ClassCastException: class net.minecraft.client.player.LocalPlayer cannot be cast to class net.minecraft.world.entity.decoration.ArmorStand (net.minecraft.client.player.LocalPlayer and net.minecraft.world.entity.decoration.ArmorStand are in module minecraft@1.20.1 of loader 'TRANSFORMER' @643f8ebe)
+	at net.minecraft.client.model.ArmorStandArmorModel.m_6973_(ArmorStandArmorModel.java:14) ~[client-1.20.1-20230612.114412-srg.jar%231434!/:?] {re:mixin,re:classloading}
+	at yesman.epicfight.client.renderer.patched.layer.WearableItemLayer.renderLayer(WearableItemLayer.java:160) ~[epicfight-forge-20.9.7-1.20.1.jar%231160!/:20.9.7] {re:classloading,pl:runtimedistcleaner:A}
+	at yesman.epicfight.client.renderer.patched.layer.WearableItemLayer.renderLayer(WearableItemLayer.java:49) ~[epicfight-forge-20.9.7-1.20.1.jar%231160!/:20.9.7] {re:classloading,pl:runtimedistcleaner:A}
+	at yesman.epicfight.client.renderer.patched.layer.ModelRenderLayer.renderLayer(ModelRenderLayer.java:27) ~[epicfight-forge-20.9.7-1.20.1.jar%231160!/:20.9.7] {re:classloading,pl:runtimedistcleaner:A}
+--- latest.log line 25316 ---
+Time: 2026-10-13 19:46:15
+Description: Rendering entity in world
+
+java.lang.ClassCastException: class net.minecraft.client.player.LocalPlayer cannot be cast to class net.minecraft.world.entity.decoration.ArmorStand (net.minecraft.client.player.LocalPlayer and net.minecraft.world.entity.decoration.ArmorStand are in module minecraft@1.20.1 of loader 'TRANSFORMER' @643f8ebe)
+	at net.minecraft.client.model.ArmorStandArmorModel.m_6973_(ArmorStandArmorModel.java:14) ~[client-1.20.1-20230612.114412-srg.jar%231434!/:?] {re:mixin,re:classloading}
+	at yesman.epicfight.client.renderer.patched.layer.WearableItemLayer.renderLayer(WearableItemLayer.java:160) ~[epicfight-forge-20.9.7-1.20.1.jar%231160!/:20.9.7] {re:classloading,pl:runtimedistcleaner:A}
+	at yesman.epicfight.client.renderer.patched.layer.WearableItemLayer.renderLayer(WearableItemLayer.java:49) ~[epicfight-forge-20.9.7-1.20.1.jar%231160!/:20.9.7] {re:classloading,pl:runtimedistcleaner:A}
+	at yesman.epicfight.client.renderer.patched.layer.ModelRenderLayer.renderLayer(ModelRenderLayer.java:27) ~[epicfight-forge-20.9.7-1.20.1.jar%231160!/:20.9.7] {re:classloading,pl:runtimedistcleaner:A}
+	at yesman.epicfight.client.renderer.patched.entity.PatchedLivingEntityRenderer.renderLayer(PatchedLivingEntityRenderer.java:236) ~[epicfight-forge-20.9.7-1.20.1.jar%231160!/:20.9.7] {re:classloading,pl:runtimedistcleaner:A}
+	at yesman.epicfight.client.renderer.patched.entity.PatchedLivingEntityRenderer.render(PatchedLivingEntityRenderer.java:146) ~[epicfight-forge-20.9.7-1.20.1.jar%231160!/:20.9.7] {re:classloading,pl:runtimedistcleaner:A}
+--- latest.log line 25374 ---
+	at com.modrinth.theseus.MinecraftLaunch.main(MinecraftLaunch.java:28) ~[theseus.jar%2386!/:?] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Suspected Mod: 
+	Epic Fight (epicfight), Version: 20.9.7
+--- latest.log line 25638 ---
+	Backend API: AMD Radeon RX 9070 XT GL version 4.6.0 Core Profile Context 25.20.42.14.260309, ATI Technologies Inc.
+	Window size: 3440x1411
+	GL Caps: Using framebuffer using OpenGL 3.2
+	GL debug messages: id=1005, source=API, type=ERROR, severity=HIGH, message='No detailed debug message due to a non-debug context' x 24
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'forge'; Server brand changed to 'forge'
+	Type: Integrated Server (map_client.txt)
+	Graphics mode: fast
+	Resource Packs: builtin/loveandwar_vender_art
+	Current Language: en_us
+--- latest.log line 25648 ---
+	CPU: 16x AMD Ryzen 7 7700X 8-Core Processor 
+	Server Running: true
+	Player Count: 1 / 8; [ServerPlayer['AllenCrafted'/2, l='ServerLevel[Create ultimate]', x=574.50, y=66.06, z=243.76]]
+	Data Packs: vanilla, mod:create_lt (incompatible), mod:saros_create_addon_forge, mod:lijms_armory, mod:hauntfurnace, mod:create_slime_craft, mod:integratedterminals, mod:critter_lib, mod:create_functional_recipes, mod:create_thermal, mod:interactiveapi, mod:create_more_automation, mod:modernfix (incompatible), mod:create_founded, mod:kambrik (incompatible), mod:createmobeggs (incompatible), mod:createdieselgenerators (incompatible), mod:apotheosis (incompatible), mod:diamondscraps, mod:mr_unchipped, mod:pigeonrecipes, mod:designermodeling, mod:cloth_config (incompatible), mod:refinedstorage, mod:embeddium, mod:structure_gel, mod:create_astral_dimensions_compat, mod:more_villargers, mod:handcrafted (incompatible), mod:create_deep_dark, mod:milesplayz, mod:refinery, mod:createmoredrillheads, mod:botania, mod:highlighter (incompatible), mod:create_recipes, mod:spark (incompatible), mod:create_sabers, mod:overworld_netherite_ore, mod:createarmory, mod:oculus, mod:trading_floor (incompatible), mod:create_villagerology, mod:attributeslib (incompatible), mod:salt (incompatible), mod:forgelogs, mod:potatofirepower, mod:elytramodfox, mod:cumulus_menus, mod:constructionwand, mod:createrailwaysnavigator (incompatible), mod:dynamic_fps, mod:nitrogen_internals, mod:create_nj, mod:toms_storage (incompatible), mod:dynamictrees (incompatible), mod:createteleporters, mod:sfm, mod:mcwlights, mod:smartbrainlib, mod:meds_and_herbs, mod:bellsandwhistles, mod:ratatouille (incompatible), mod:rechiseled (incompatible), mod:fastboot (incompatible), mod:createcobblestone (incompatible), mod:caelus (incompatible), mod:integrated_api, mod:epherolib (incompatible), mod:blazinghot (incompatible), mod:create_wizardry, mod:botanypots (incompatible), mod:create_high_pressure, mod:rechiseledcreate, mod:midnightlib (incompatible), mod:molten_vents, mod:mek_x_star, mod:createhalitosis, mod:createhorsepower, mod:fusion, mod:mechanicalbotania (incompatible), mod:createive_recipes, mod:blazeremover (incompatible), mod:mr_no_moreruinedportals, mod:s_a_b, mod:create_pneuequip, mod:lteg, mod:kinetic_pixel, mod:create_nuke, mod:createtaczauto, mod:croptopia_and_create, mod:asbestos_and_more, mod:stone_chests_and_create, mod:create_extra_recipies, mod:create_easy_structures, mod:create_creative, mod:create_charcoal_to_diamonds, mod:createstuffadditionsfix, mod:terrablender, mod:blazecraft_reborn, mod:createsweetsandtreets, mod:createsifter (incompatible), mod:cogsofcarminite, mod:alltheleaks, mod:createstation_decor, mod:farmersrespite, mod:flywheel, mod:create_simple_ore_doubling, mod:create_tools, mod:bocchium (incompatible), mod:securitycraft, mod:rushes_create_addon_fixes, mod:nocubescreateexp, mod:create_the_air_wars, mod:createdecodelight, mod:immediatelyfast (incompatible), mod:fastfurnace (incompatible), mod:nuka_cola_classic, mod:occultism, mod:hell_and_end_hae, mod:valkyrienskies (incompatible), mod:extra_additions, mod:create_armor_trims, mod:createchanges, mod:create_cola_factory, mod:kuma_api, mod:neodymiums_building_extended, mod:advancedperipherals (incompatible), mod:globalpacks (incompatible), mod:potion_effect_enchantments, mod:sophisticatedcore (incompatible), mod:more_recipe_fa, mod:create_crush_everything, mod:vs_eureka (incompatible), mod:create_irradiated, mod:creating_space_library, mod:placebo (incompatible), mod:craftableexp, mod:create_drills, mod:create_more_additions, mod:create_reforged_foundations, mod:bookshelf, mod:sophisticatedbackpacks (incompatible), mod:mcwdoors, mod:create_ca (incompatible), mod:oh_no_create_utilities, mod:tfmgvod, mod:create_mixed_nuclear, mod:sodiumoptionsapi, mod:interiors (incompatible), mod:createcafe (incompatible), mod:wonderfulwildlife, mod:create_connected, mod:chipped (incompatible), mod:urban_decor (incompatible), mod:create_automated_blase_cakes, mod:fastipping (incompatible), mod:endertanks, mod:ambientsounds, mod:tmtctoe, mod:limilium, mod:tofucreate (incompatible), mod:copiescats, mod:baubly, mod:chisel_chipped_integration, mod:createartifactscompat, mod:create_fs, mod:cerbons_api, mod:create_uncraftables_automated, mod:createstonegenerator, mod:elevatorid, mod:createair, mod:create_enchantment_industry_plus, mod:create_sky_village, mod:inventoryprofilesnext (incompatible), mod:create_furnace_lava_adapter, mod:creather, mod:biomancy, mod:rpm2rf (incompatible), mod:tofucraft (incompatible), mod:createplus_crafting, mod:more_netherite, mod:estrogen (incompatible), mod:electrum_gear (incompatible), mod:create_mixed_stone, mod:moreburners, mod:create_logistics, mod:irisflw, mod:copycats (incompatible), mod:create_decoration, mod:enlightened_end, mod:create_winery, mod:clumps (incompatible), mod:artifacts, mod:create_craftable_diamond, mod:create_sheets_to_ingots, mod:createsandpapers (incompatible), mod:bobberdetector (incompatible), mod:rock_and_block, mod:interactivedungeons, mod:craftingtweaks, mod:okzoomer (incompatible), mod:bigcontraptions (incompatible), mod:mr_no_morepillageroutposts, mod:tramways, mod:dragonlib, mod:libipn (incompatible), mod:create_chromatic_return_extras, mod:another_furniture (incompatible), mod:culllessleaves (incompatible), mod:creativecore, mod:create_better_brass, mod:chefworkbench, mod:dynamictrees_createcompat (incompatible), mod:movingelevators, mod:createbetterbaking, mod:create_mod_addon, mod:easy_villagers, mod:createstuff, mod:createeditions, mod:vfbbb, mod:fastbench (incompatible), mod:storagedrawers (incompatible), mod:freecam (incompatible), mod:morelights, mod:create_radar, mod:create_ag, mod:createcompression, mod:create_crushing_quartz, mod:copper_craft_create_addon, mod:create_ironworks, mod:assemblyline, mod:createmetallurgy (incompatible), mod:create_kart, mod:ferritecore (incompatible), mod:create_coins, mod:lychee (incompatible), mod:betterf3, mod:crowns (incompatible), mod:badoptimizations (incompatible), mod:astral_dimension, mod:create_enchantment_industry (incompatible), mod:create_structures_arise, mod:csl, mod:tacz_c, mod:steampowered (incompatible), mod:man_of_many_planes (incompatible), mod:elevatorandcreate, mod:supermartijn642configlib (incompatible), mod:sodiumextras, mod:createbiofuel, mod:bop_create_mod_rose_quartz, mod:createbedrock, mod:playeranimator (incompatible), mod:irons_spellbooks, mod:botarium (incompatible), mod:edible_meth, mod:createtoolsnweapons, mod:melter, mod:mcwwindows, mod:betternether, mod:createhardcore, mod:create_abuti, mod:create_jetpack (incompatible), mod:sound_physics_remastered (incompatible), mod:moped, mod:create_christmass, mod:createamazingdungeons, mod:create_deepfried, mod:create_ad_astra_recipes, mod:integratedrest, mod:create_ethium, mod:powah (incompatible), mod:bagus_lib, mod:guardvillagers (incompatible), mod:create_compressed, mod:voltaic (incompatible), mod:createnewbeg (incompatible), mod:growores, mod:balm, mod:create_props_and_misc, mod:structure_layout_optimizer, mod:create_pillagers_arise, mod:restonne_craft, mod:shetiphiancore, mod:athena, mod:create_oxidized, mod:create_more_farmables, mod:create_drinks, mod:waystoneandcreate, mod:experium_mod, mod:supermartijn642corelib, mod:renewable_stones, mod:resourcefulconfig (incompatible), mod:servercore (incompatible), mod:create_recipe, mod:curios (incompatible), mod:wmp, mod:create_factory, mod:create_more_recipes, mod:searchables (incompatible), mod:create_militarized, mod:framedblocks, mod:create_gravity (incompatible), mod:pointblank, mod:createmaximized, mod:mcwfurnitures, mod:flightlib (incompatible), mod:jadeaddons (incompatible), mod:createchromaticreturn, mod:mobtimizations, mod:create_herbs, mod:createextendedrecipes, mod:codechickenlib (incompatible), mod:cb_multipart (incompatible), mod:sliceanddice (incompatible), mod:create_tweaked_controllers, mod:mh_automated, mod:steamatic_locomotion, mod:create_quark_runes, mod:gourmet, mod:create_trains_on_trains, mod:integrated_villages, mod:create_and_explore_alexs_caves, mod:create_optical, mod:create_netherless, mod:epicfight, mod:biomimicry, mod:glitchcore (incompatible), mod:biomesoplenty, mod:pneumaticcraft (incompatible), mod:advanced_horses, mod:expandingtechnologies (incompatible), mod:starlight (incompatible), mod:runiclib (incompatible), mod:create_wt, mod:create_magics (incompatible), mod:memoryleakfix (incompatible), mod:createconquer, mod:puzzlesaccessapi, mod:immersivepetroleum (incompatible), mod:forge, mod:cofh_core, mod:thermal, mod:appleskin (incompatible), mod:thermal_innovation, mod:thermal_foundation, mod:create_nuclear_war, mod:lazyengines, mod:idas, mod:createbb (incompatible), mod:create_creative_survival, mod:create__the_salt, mod:biofactory, mod:jei, mod:mekanism, mod:mekanismgenerators, mod:zerocore (incompatible), mod:create_enlightend, mod:fabric_api_base, mod:mousetweaks, mod:immersiveengineering (incompatible), mod:createoreexcavation (incompatible), mod:create_ore_excavation_plus (incompatible), mod:createfiberglass, mod:create__automation, mod:createutilities (incompatible), mod:spectrelib (incompatible), mod:createendertransmission, mod:create_zinc_plus, mod:garnished, mod:create_aquatic_ambitions, mod:kotlinforforge (incompatible), mod:xaerominimap (incompatible), mod:integrateddynamics, mod:integratedcrafting, mod:integrated_stronghold, mod:croptopia (incompatible), mod:createcc (incompatible), mod:potato_cannon_ammo_counter, mod:polymorph (incompatible), mod:zeta (incompatible), mod:mna (incompatible), mod:entityculling, mod:canary, mod:createcontraptionterminals (incompatible), mod:create_mountain_dew, mod:oceansdelight (incompatible), mod:creating_space_gravity_addon, mod:reclaimed_rocks, mod:create_more_features, mod:puzzleslib, mod:create_power_loader, mod:aquaculture, mod:oscars_ultramod, mod:create_oppenheimered, mod:tetra (incompatible), mod:alloyed_metals, mod:flansmod (incompatible), mod:cyclopscore, mod:easy_npc, mod:create_eureka (incompatible), mod:create_upgraded_armor, mod:cbc_nukes (incompatible), mod:create_things_and_misc, mod:blue_skies (incompatible), mod:create_ltab_f, mod:geckolib, mod:ars_nouveau (incompatible), mod:aether, mod:naturalist (incompatible), mod:create_peaceful, mod:create_buffers__beams_overhauled, mod:immersive_aircraft (incompatible), mod:create_small_additions, mod:create_ad_astra_compat, mod:create_tank_defenses, mod:ritchiesprojectilelib (incompatible), mod:xaeroworldmap (incompatible), mod:cookingforblockheads, mod:controlling (incompatible), mod:citadel (incompatible), mod:createmr, mod:create_wooderwheels (incompatible), mod:numismatics (incompatible), mod:create_dragon_lib (incompatible), mod:wunderlib, mod:rainbowcompound, mod:railways, mod:create_pastries, mod:createnergy, mod:create_tab_fix (incompatible), mod:create_jetpack_curios, mod:bclib, mod:twilightforest, mod:sodiumdynamiclights, mod:craftable_create_casings, mod:createcrushingresource, mod:farmersdelight, mod:createframed (incompatible), mod:commoncapabilities, mod:falcon, mod:create_ultimate_factory, mod:create_unbreakable (incompatible), mod:bountiful (incompatible), mod:modelfix (incompatible), mod:create_additions_synthetics, mod:protection_pixel, mod:patchouli (incompatible), mod:underground_village, mod:create_milk_industry, mod:create_ranged, mod:create_blast_off, mod:mrc, mod:thermal_expansion, mod:integratedtunnels, mod:createsupplementaries, mod:createarmsrace, mod:additional_recipes, mod:resourcefullib (incompatible), mod:createliquidfuel (incompatible), mod:mekanismtools, mod:basicinnovations, mod:architectury (incompatible), mod:otyacraftengine, mod:createchunkloading (incompatible), mod:quickstackcraft, mod:iammusicplayer, mod:trainutilities, mod:computercraft, mod:projectred_core (incompatible), mod:projectred_integration (incompatible), mod:projectred_transmission (incompatible), mod:projectred_illumination (incompatible), mod:projectred_expansion (incompatible), mod:bigreactors (incompatible), mod:blasmatech (incompatible), mod:create_deepslate_processing (incompatible), mod:smartcrafter, mod:createhaven (incompatible), mod:amazingtrading (incompatible), mod:createenchantablemachinery, mod:create_shiny, mod:create_cheese, mod:tacz, mod:createlowheated, mod:classicpipes (incompatible), mod:totemfactory, mod:create_gravel_extractors, mod:create_copper_and_zinc, mod:overworldquartzore, mod:geckoanimfix (incompatible), mod:waystones, mod:fastsuite (incompatible), mod:create_eternal_copper, mod:delightfulblocks, mod:davebuildingmod, mod:create_expanded_plus_features, mod:mr_veinminer (incompatible), mod:create_bic_bit, mod:create_confectionery, mod:mcjtylib, mod:rftoolsbase, mod:deepresonance, mod:easytrains, mod:create_glow_berry_belts, mod:crushed_obsidian, mod:create_curios_backtank, mod:create_now_thats_a_train, mod:extrabounties (incompatible), mod:moderntrainparts (incompatible), mod:create, mod:create_paper_line (incompatible), mod:createqol (incompatible), mod:vintageimprovements, mod:create_hc, mod:droid_create_netherrack_recipe, mod:ec_create_plugin (incompatible), mod:expanded_combat (incompatible), mod:create_mechanical_chicken (incompatible), mod:trackwork (incompatible), mod:create_basic_additions, mod:extendedgears (incompatible), mod:ars_creo (incompatible), mod:create_better_villagers, mod:create_interactive (incompatible), mod:some_assembly_required, mod:createcasing (incompatible), mod:creategoggles (incompatible), mod:droid_create_diamond_recipe, mod:createloveandwar, mod:createimmersivetacz, mod:create_extra_casing, mod:create_better_motors, mod:create_diamond_factory, mod:create_mob_spawners, mod:cfwinfo, mod:createdoughcompat, mod:createdynlight, mod:createfood (incompatible), mod:crystal_clear (incompatible), mod:occultcreate (incompatible), mod:create_central_kitchen (incompatible), mod:create_mechanical_extruder (incompatible), mod:vs_clockwork (incompatible), mod:createmetalwork (incompatible), mod:create_mechanical_spawner (incompatible), mod:createresourcegeodes (incompatible), mod:balancedflight (incompatible), mod:createcompounds (incompatible), mod:unify (incompatible), mod:create_new_age, mod:ad_astra (incompatible), mod:create_dd (incompatible), mod:createaddition (incompatible), mod:createpanda, mod:createaddition_plus, mod:createdeco (incompatible), mod:creatingspace (incompatible), mod:createbigcannons (incompatible), mod:northstar (incompatible), mod:petrolpark (incompatible), mod:petrolsparts (incompatible), mod:apotheoticcreation, mod:tfmg (incompatible), mod:mekanism_tfmg_compat, mod:s_a_b_r_tfmg, mod:createcherry, mod:jukeboxfix (incompatible), mod:tmtcmoe, mod:alexscaves, mod:er2create (incompatible), mod:moonlight (incompatible), mod:molten_metals, mod:creategbd (incompatible), mod:mixinsquared (incompatible), mod:jade (incompatible), mod:recipesforcreate, mod:create_deco_casing, mod:sccmod, mod:nethersdelight, mod:create_renewability, mod:cosmosswordmodreworked_create, mod:thinair, mod:iceberg (incompatible), mod:create_weird_structures, mod:steel_for_create, mod:quark (incompatible), mod:supplementaries, mod:mr_no_morevillages, mod:mr_no_moreshipwrecks, mod:mutil, mod:create_ducks_addition, mod:create_sa, mod:cookiecookiecookiecookiecookie, mod:create_ore_factory, mod:enderchests, mod:modonomicon, mod:rsinsertexportupgrade, mod:coroutil (incompatible), mod:createmoreaddon, mod:create_pattern_schematics (incompatible), mod:createpowerlines (incompatible), mod:create_blue_skies_compat, mod:creatacz, mod:diamond (incompatible), mod:create_furnitures, mod:kitchen_grow (incompatible), mod:createfluidstuffs (incompatible), mod:packetfixer (incompatible), mod:logisticspipes (incompatible), mod:expandability (incompatible), mod:xtonesreworked (incompatible), mod:presencefootsteps (incompatible), Create Immersive Aircrafts Datapack 1.20.1 - 1.2.zip, Eureka Create 1.1.zip, Supplementaries Generated Pack, builtin/aether_accessories, builtin/loveandwar_simple_brass, builtin/loveandwar_vender_data, create_central_kitchen:farmersdelight (incompatible), exnihilo_disabled, logisticspipes:virtual_recipes, pointblank_resources, tacz_resources, thermalextracompat.zip, unify:create_unify_ore_gen, mod:effortlessbuilding, mod:escalated (incompatible), mod:measurements, mod:naturescompass, mod:createultimate_moonlight_vs_compat, mod:refinedstorageaddons, mod:refinedpolymorph, create-ultimate-recipe-repairs, mod:almanac, mod:lomka, mod:mr_ore_plus_x4, mod:memguard, mod:optileaves, mod:tt20, mod:datapackloaderrorfix (incompatible), mod:ksyxis (incompatible), mod:reflex, mod:resolutionscaler, mod:quick_pack, mod:ticktweaks (incompatible), mod:gpu_tape (incompatible), mod:pickuptorches, mod:saturn (incompatible), mod:createthreadedtrains, mod:retromod (incompatible), mod:jbr (incompatible), mod:randomoptimization, mod:packforge, mod:letmedespawn, mod:mobstacker, mod:fullbright, mod:clienttweaks, mod:luckytntmod (incompatible), mod:gravestone, mod:immersive_armors (incompatible), mod:unilib, mod:benssharks, mod:luckytntlib (incompatible), mod:craftpresence, mod:guideme (incompatible), mod:resourcify (incompatible), mod:create_structures, mod:infinitybuttons (incompatible), mod:ae2 (incompatible), mod:advanced_ae (incompatible), mod:ae2addonlib (incompatible), mod:rrls
+	Enabled Feature Flags: minecraft:vanilla
+	World Generation: Stable
+	ModLauncher: 10.0.9+10.0.9+main.dcd20f30
+	ModLauncher launch target: forgeclient
+	ModLauncher naming: srg
+	ModLauncher services: 
+--- latest.log line 25752 ---
+		create_high_pressure-1.1.0.jar                    |Create: High Pressure         |create_high_pressure          |1.1.0               |DONE      |Manifest: NOSIGNATURE
+		rechiseledcreate-1.0.2-forge-mc1.20.jar           |Rechiseled: Create            |rechiseledcreate              |1.0.2               |DONE      |Manifest: NOSIGNATURE
+		midnightlib-1.4.2-forge.jar                       |MidnightLib                   |midnightlib                   |1.4.2               |DONE      |Manifest: NOSIGNATURE
+		datapackloaderrorfix-forge-1.20.1-2.0.1.jar       |Datapack Load Error Fix       |datapackloaderrorfix          |2.0.0-forge-1.20.1  |DONE      |Manifest: NOSIGNATURE
+		molten_vents-1.20.1-2.0.9.jar                     |Molten Vents                  |molten_vents                  |2.0.9               |DONE      |Manifest: NOSIGNATURE
+		mek_x_star-1.20.1-1.2.0.jar                       |Mekanism x Create: Northstar  |mek_x_star                    |1.20.1-1.2.0        |DONE      |Manifest: NOSIGNATURE
+		createhalitosis-1.20.1-1.0.0.jar                  |Create: Halitosis             |createhalitosis               |1.0.0               |DONE      |Manifest: NOSIGNATURE
+		createhorsepower-1.0.0.jar                        |Create Horse Power            |createhorsepower              |1.0.0               |DONE      |Manifest: NOSIGNATURE
+		fusion-1.2.4-forge-mc1.20.1.jar                   |Fusion                        |fusion                        |1.2.4               |DONE      |Manifest: NOSIGNATURE
+		mechanicalbotania-1.0.1.jar                       |Mechanical Botania            |mechanicalbotania             |1.0.1               |DONE      |Manifest: NOSIGNATURE
+--- latest.log line 26030 ---
+		NaturesCompass-1.20.1-1.12.0-forge.jar            |Nature's Compass              |naturescompass                |1.20.1-1.12.0-forge |DONE      |Manifest: NOSIGNATURE
+		GlitchCore-forge-1.20.1-0.0.1.1.jar               |GlitchCore                    |glitchcore                    |0.0.1.1             |DONE      |Manifest: NOSIGNATURE
+		BiomesOPlenty-forge-1.20.1-19.0.0.94.jar          |Biomes O' Plenty              |biomesoplenty                 |19.0.0.94           |DONE      |Manifest: NOSIGNATURE
+		pneumaticcraft-repressurized-6.0.23+mc1.20.1.jar  |PneumaticCraft: Repressurized |pneumaticcraft                |6.0.23+mc1.20.1     |DONE      |Manifest: NOSIGNATURE
+		advanced_horses-0.2-1.20.1.jar                    |Horse Food                    |advanced_horses               |0.1-1.20.1          |DONE      |Manifest: NOSIGNATURE
+		expandingtechnologies-1.0.2.jar                   |Expanding Technologies        |expandingtechnologies         |1.0.2               |DONE      |Manifest: NOSIGNATURE
+		starlight-1.1.2+forge.1cda73c.jar                 |Starlight                     |starlight                     |1.1.2+forge.1cda73c |DONE      |Manifest: NOSIGNATURE
+		forge-runiclib-1.20.1-4.3.11.jar                  |RunicLib                      |runiclib                      |4.3.11              |DONE      |Manifest: NOSIGNATURE
+		create_wt-forge-1.20.1-1.0.7.jar                  |Create: Weaponry Tinkering    |create_wt                     |1.0.7               |DONE      |Manifest: NOSIGNATURE
+		create_magics-1.0.5-1.20.1.jar                    |Create Magics                 |create_magics                 |1.0.5-1.20.1        |DONE      |Manifest: NOSIGNATURE
+--- latest.log line 26335 ---
+	Crash Report UUID: 94e2941f-c59c-480e-bfaa-08c98b3e8084
+	FML: 47.4
+	Forge: net.minecraftforge:47.4.10
+[19:46:15] [Render thread/FATAL]: Preparing crash report with UUID c029e42c-fcfe-45f0-8c5c-eb34e1336550
+[19:46:15] [Render thread/INFO]: [net.minecraft.server.Bootstrap:m_135875_:151]: #@!@# Game crashed! Crash report saved to: #@!@# C:\Users\allen\AppData\Roaming\ModrinthApp\profiles\Create Way Too Much\crash-reports\crash-2026-10-13_19.46.15-client.txt
