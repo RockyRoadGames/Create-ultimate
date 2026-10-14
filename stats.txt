@@ -1,0 +1,10 @@
+spawning_chunks: 289
+spawn_count.creature: 34
+spawn_count.ambient: 7
+spawn_count.monster: 28
+entities: 279,279,133,842,842,0,0
+block_entity_tickers: 597
+block_ticks: 11854
+fluid_ticks: 96
+distance_manager: player ticket throttler=[], s=1
+pending_tasks: 42
